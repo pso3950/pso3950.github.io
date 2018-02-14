@@ -20,11 +20,6 @@ p{
 	font-family: "Courrier New";
 }
 
-div{
-	text-align: center;
-}
-
 ul{
-	padding:0;
-	margin:0;
+	list-style-position: inside;
 }
