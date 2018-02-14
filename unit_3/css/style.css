@@ -1,5 +1,6 @@
 body{
 	text-align: center;
+	background: #00FF99;
 }
 h1{
 	font-family: Arial, sans-serif;
@@ -13,6 +14,7 @@ h1{
 }
 p{
 	font-family: "Courrier New";
+	text-align: left;
 }
 ul{
 	text-align: center;
