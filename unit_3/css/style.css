@@ -1,0 +1,13 @@
+body {
+	text-align: center;
+	background: url(https://imgur.com/gallery/EeNlUoY);
+	background-size: cover;
+	color: #fff;
+	font-family: Helvetica;
+}
+h1 {
+	color:#F00;
+}
+#slogan {
+	font-style: italic;
+}
