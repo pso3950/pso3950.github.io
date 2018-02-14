@@ -1,11 +1,13 @@
 body {
 	text-align: center;
+	background: url(https://imgur.com/gallery/EeNlUoY);
 	background-size: cover;
 	color: #000;
 	font-family: Helvetica;
 }
 h1 {
 	color:#F00;
+	font-family: Playlist;
 }
 #slogan {
 	font-style: italic;
