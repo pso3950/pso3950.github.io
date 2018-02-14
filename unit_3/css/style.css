@@ -14,8 +14,8 @@ h1{
 }
 p{
 	font-family: "Courrier New";
-	text-align: left;
 }
 ul{
 	text-align: center;
+	padding-left: 40px;
 }
