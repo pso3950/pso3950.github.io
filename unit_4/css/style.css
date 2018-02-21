@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Bellefair');
+@import url('https://fonts.googleapis.com/css?family=Bellefair+Condensed');
 body {
 	font-size: 18px;
 	line-height: 1.5em;
@@ -22,7 +22,7 @@ h1{
 }
 
 p{
-	font-family: "Courrier New";
+	font-family: 'Roboto Condensed', sans-serif;
 
 }
 
