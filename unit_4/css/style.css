@@ -28,5 +28,5 @@ p.beer{
 }
 
 ul{
-	list-style-position: inside;
+	text-align: left;
 }
