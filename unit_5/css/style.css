@@ -33,12 +33,10 @@ header {
 	color: black;
 }
 
-#hero {
-	text-align: left;
-}
-
-#description {
-	text-align: right;
+.column{
+	float: left;
+	width: 50%;
+	padding 15px;
 }
 
 h1 {
