@@ -7,6 +7,11 @@ body {
 	color: #000;
 }
 
+header {
+	text-align: left;
+	border: 2px solid black;
+}
+
 nav {
 	text-align: right;
 	display: block;
