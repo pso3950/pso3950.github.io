@@ -35,6 +35,7 @@ body {
 }
 
 .column {
+	background-color: #E89C6C;
 	float: left;
 	width: 50%;
 	padding 15px;
