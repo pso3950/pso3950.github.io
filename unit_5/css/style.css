@@ -13,19 +13,23 @@ header {
 	display: inline-block;
 }
 
-nav {
-	text-align: right;
-	display: block;
+.topnav {
+	overflow: hidden;
+	background: #333;
 }
 
-#navi {
-	display: inline;
-	list-style-type: none;
+.topnav a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
-li a:hover {
-	background: #555
-	color: white;
+.topnav a:hover {
+	background: #ddd
+	color: black;
 }
 
 #hero {
