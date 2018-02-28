@@ -23,6 +23,7 @@ header {
 .topnav a {
     float: right;
     display: block;
+    background: #E8C66A;
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
