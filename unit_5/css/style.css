@@ -44,6 +44,11 @@ h1 {
 	text-align: center;
 }
 
+h2 {
+	border-bottom: 4px solid black;
+	display: inline-block;
+}
+
 #slogan { 
 	font-family: Bellefair, serif;
 	font-size: 24px;
