@@ -12,6 +12,11 @@ nav {
 	display: block;
 }
 
+li a: hover {
+	background: #555
+	color: white;
+}
+
 #hero {
 	text-align: left;
 }
