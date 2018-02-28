@@ -10,13 +10,8 @@ body {
 header {
 	text-align: left;
 	border: 2px solid black;
-	padding: 2px 3px 2px 3px;
+	padding: 2px;
 	display: inline-block;
-}
-
-.topnav {
-	overflow: hidden;
-	background: #333;
 }
 
 .topnav a {
