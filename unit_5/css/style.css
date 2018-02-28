@@ -59,16 +59,17 @@ p.beer {
 	font-family: 'Roboto Condensed', sans-serif;
 	border: 2px black solid;
 	margin: 3px;
-
 }
 
 ul {
 	font-family: 'Roboto Condensed', sans-serif;
 	text-align: left;
 }
+
 p {
 	font-family: 'Roboto Condensed', sans-serif;
 }
+
 footer {
 	background: #FF957E;
 }
