@@ -54,6 +54,7 @@ h1 {
 p.beer {
 	font-family: 'Roboto Condensed', sans-serif;
 	border: 2px black solid;
+	padding: 3px;
 
 }
 
