@@ -10,7 +10,7 @@ body {
 header {
 	text-align: left;
 	border: 2px solid black;
-	padding-left: 3px 10px;
+	padding: 3px 10px;
 }
 
 nav {
@@ -41,7 +41,7 @@ h1 {
 	font-weight: normal;
 	text-decoration: underline;
 	text-transform: uppercase;
-	text-align: center;
+	text-align: left;
 }
 
 h2 {
@@ -53,7 +53,7 @@ h2 {
 	font-family: Bellefair, serif;
 	font-size: 24px;
 	font-style: italic;
-	text-align: center;
+	text-align: left;
 }
 
 p.beer {
