@@ -8,11 +8,10 @@ body {
 }
 
 .header {
-	background: #FFED74;
+	background-color: #FFED74;
 	text-align: left;
 	border: 2px solid black;
-	padding: 2px;
-	display: inline-block;
+	display: inline;
 }
 
 .topnav {
@@ -23,7 +22,7 @@ body {
 .topnav a {
     float: right;
     display: block;
-    background: #E8C66A;
+    background-color: #E8C66A;
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
@@ -31,7 +30,7 @@ body {
 }
 
 .topnav a:hover {
-	background: #ddd;
+	background-color: #ddd;
 	color: black;
 }
 
@@ -83,5 +82,5 @@ p {
 }
 
 footer {
-	background: #FF957E;
+	background-color: #FF957E;
 }
