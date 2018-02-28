@@ -8,11 +8,12 @@ body {
 }
 
 .header {
-	background-color: #FFED74;
-	text-align: left;
 	border: 2px solid black;
 	display: inline-block;
+	background-color: #FFED74;
+	text-align: left;
 }
+	
 
 .topnav {
     overflow: hidden;
@@ -69,8 +70,6 @@ h2 {
 
 p.beer {
 	font-family: 'Roboto Condensed', sans-serif;
-	border: 2px black solid;
-	margin: 3px;
 }
 
 ul {
