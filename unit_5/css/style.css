@@ -15,6 +15,11 @@ header {
 	display: inline-block;
 }
 
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
 .topnav a {
     float: right;
     display: block;
@@ -25,7 +30,7 @@ header {
 }
 
 .topnav a:hover {
-	background: #E8C66A;
+	background: #ddd;
 	color: black;
 }
 
@@ -33,6 +38,12 @@ header {
 	float: left;
 	width: 50%;
 	padding 15px;
+}
+
+@media (max-width:600px) {
+    .column {
+        width: 100%;
+    }
 }
 
 h1 {
