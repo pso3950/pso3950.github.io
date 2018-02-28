@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Bellefair|Roboto+Condensed');
+body {
+	font-size: 16px;
+	line-height: 1em;
+	margin: 2em;
+	background: #FFF;
+	color: #000;
+}
+
+#hero {
+	text-align: left;
+}
+
+#description {
+	text-align: right;
+}
+
+h1{
+	font-family: Bellefair, serif;
+	font-weight: normal;
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#slogan{
+	font-family: Bellefair, serif;
+	font-size: 24px;
+	font-style: italic;
+	text-align: center;
+}
+
+p.beer{
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+ul{
+	font-family: 'Roboto Condensed', sans-serif;
+	text-align: left;
+}
+p{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
