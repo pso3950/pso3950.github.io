@@ -8,6 +8,7 @@ body {
 }
 
 header {
+	background: #FFED74;
 	text-align: left;
 	border: 2px solid black;
 	padding: 2px;
@@ -24,7 +25,7 @@ header {
 }
 
 .topnav a:hover {
-	background: #ddd
+	background: #E8C66A;
 	color: black;
 }
 
@@ -68,8 +69,6 @@ ul {
 p {
 	font-family: 'Roboto Condensed', sans-serif;
 }
-img {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+footer {
+	background: #FF957E;
 }
