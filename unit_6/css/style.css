@@ -17,13 +17,13 @@ body {
 
 .topnav {
     overflow: hidden;
-    background-color: #E8C66A;
+    background-color: #A9A9A9;
 }
 
 .topnav a {
     float: right;
     display: block;
-    background-color: #E8C66A;
+    background-color: #A9A9A9;
     color: #000;
     text-align: center;
     padding: 14px 16px;
@@ -31,12 +31,12 @@ body {
 }
 
 .topnav a:hover {
-	background-color: #ddd;
+	background-color: #FFF;
 	color: black;
 }
 
 .column {
-	background-color: #E89C6C;
+	background-color: #A9A9A9;
 	float: left;
 	width: 50%;
 	padding 15px;
@@ -80,7 +80,7 @@ p.beer {
 
 ul {
 	font-family: 'Roboto Condensed', sans-serif;
-	background-color: #E89C6C;
+	background-color: #A9A9A9;
 }
 
 p {
@@ -88,13 +88,13 @@ p {
 }
 
 #two_column {
-	background-color: #FFB7CF;
+	background-color: #A9A9A9;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #left {
-	background-color: #violet;
+	background-color: #A9A9A9;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -102,7 +102,7 @@ p {
 }
 
 #right {
-	background-color: #pink;
+	background-color: #A9A9A9;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
@@ -110,7 +110,7 @@ p {
 }
 
 footer {
-	background-color: #FF957E;
+	background-color: #A9A9A9;
 	padding: 10px;
 	text-align: center;
 }
