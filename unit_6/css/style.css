@@ -87,7 +87,7 @@ p {
 	font-family: 'Roboto Condensed', sans-serif;
 }
 
-.clearfix: after {
+.clearfix:after {
 	visibility: hidden;
 	display: block;
 	font-size: 0;
