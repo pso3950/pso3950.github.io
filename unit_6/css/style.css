@@ -87,15 +87,6 @@ p {
 	font-family: 'Roboto Condensed', sans-serif;
 }
 
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: " ";
-	clear: both;
-	height: 0;
-}
-
 #two_column {
 	background-color: #FFB7CF;
 	border: 1px black solid;
@@ -122,5 +113,14 @@ footer {
 	background-color: #FF957E;
 	padding: 10px;
 	text-align: center;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
 }
 	
