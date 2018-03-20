@@ -82,13 +82,13 @@ p {
 }
 
 img {
-	width: 50%;
+	width: 65%;
 }
 
 #two_column {
 	background-color: #808080;
 	border: 1px black solid;
-	padding: 1%;
+	padding: 2%;
 }
 
 #left {
@@ -96,7 +96,7 @@ img {
 	border: 1px black solid;
 	padding: 1%;
 	float: left;
-	width: 30%;
+	width: 39%;
 }
 
 #right {
@@ -104,7 +104,7 @@ img {
 	border: 1px black solid;
 	padding: 1%;
 	float: right;
-	width: 60%;
+	width: 59%;
 }
 
 footer {
