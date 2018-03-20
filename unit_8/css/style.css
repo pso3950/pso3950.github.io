@@ -35,10 +35,17 @@ body {
 	color: #A9A9A9;
 }
 
-.column {
+.column1 {
 	background-color: #A9A9A9;
 	float: left;
 	width: 65%;
+	padding: 1%;
+}
+
+.column2 {
+	background-color: #A9A9A9;
+	float: right;
+	width: 35%;
 	padding: 1%;
 }
 
