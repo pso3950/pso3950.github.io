@@ -95,7 +95,7 @@ img {
 	border: 1px black solid;
 	padding: 1%;
 	float: left;
-	width: 39%;
+	width: 30%;
 }
 
 #right {
@@ -103,7 +103,7 @@ img {
 	border: 1px black solid;
 	padding: 1%;
 	float: right;
-	width: 59%;
+	width: 50%;
 }
 
 footer {
