@@ -88,13 +88,13 @@ img {
 #two_column {
 	background-color: #808080;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 1%;
 }
 
 #left {
 	background-color: #A9A9A9;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 2%;
 	float: left;
 	width: 30%;
 }
@@ -102,7 +102,7 @@ img {
 #right {
 	background-color: #A9A9A9;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 1%;
 	float: right;
 	width: 50%;
 }
