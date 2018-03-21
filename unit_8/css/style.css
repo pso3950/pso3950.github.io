@@ -39,7 +39,14 @@ body {
 	background-color: #A9A9A9;
 	float: left;
 	width: 50%;
-	padding: 15px;
+	padding: 1%;
+}
+
+.column2 {
+	background-color: #A9A9A9;
+	float: right;
+	width: 50%;
+	padding: 1%;
 }
 
 .row:after {
@@ -124,7 +131,7 @@ footer {
 	
 
 @media only screen and (max-width: 764px) {
-    .row, #left, #right {
+    .row, #left, #right, .column, .column2 {
     	float: none;
         width: auto;
     }
