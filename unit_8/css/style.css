@@ -84,11 +84,6 @@ p {
 	font-family: 'Roboto Condensed', sans-serif;
 }
 
-img {
-	width: 100%;
-	float: left;
-}
-
 #two_column {
 	background-color: #808080;
 	border: 1px black solid;
