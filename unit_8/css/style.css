@@ -42,13 +42,6 @@ body {
 	padding: 1%;
 }
 
-.column2 {
-	background-color: #A9A9A9;
-	float: right;
-	width: 50%;
-	padding: 1%;
-}
-
 .row:after {
     content: "";
     display: table;
@@ -99,7 +92,7 @@ img {
 #two_column {
 	background-color: #808080;
 	border: 1px black solid;
-	padding: 1%;
+	padding: .5%;
 }
 
 #left {
