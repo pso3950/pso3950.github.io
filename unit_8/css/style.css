@@ -42,12 +42,6 @@ body {
 	padding: 1%;
 }
 
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
 h1 {
 	font-family: Bellefair, serif;
 	font-weight: normal;
