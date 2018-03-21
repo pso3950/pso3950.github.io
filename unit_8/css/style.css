@@ -42,13 +42,6 @@ body {
 	padding: 1%;
 }
 
-.column2 {
-	background-color: #A9A9A9;
-	float: right;
-	width: 50%;
-	padding: 1%;
-}
-
 .row:after {
     content: "";
     display: table;
@@ -90,6 +83,7 @@ p {
 
 img {
 	width: 100%;
+	float: left;
 }
 
 #two_column {
@@ -128,7 +122,6 @@ footer {
 	clear: both;
 	height: 0;
 }
-	
 
 @media only screen and (max-width: 764px) {
     .row, #left, #right {
