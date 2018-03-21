@@ -131,7 +131,7 @@ footer {
 	
 
 @media only screen and (max-width: 764px) {
-    .row, #left, #right, .column, .column2 {
+    .row, #left, #right {
     	float: none;
         width: auto;
     }
