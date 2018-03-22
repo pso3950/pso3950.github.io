@@ -122,9 +122,13 @@ footer {
 }
 
 @media only screen and (max-width: 764px) {
-    .center, .column, #left, #right {
+    #left, #right {
     	float: none;
         width: auto;
+    }
+    .column {
+    	float: none;
+    	width: auto;
     }
     .topnav {
     	float: left;
