@@ -132,7 +132,8 @@ footer {
         width: auto;
     }
     .topnav {
-    	display: block;
+    	float: right;
+    	display: inline;
     	text-align: center;
     }
 
