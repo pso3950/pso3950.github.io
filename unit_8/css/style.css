@@ -125,16 +125,17 @@ footer {
 }
 
 @media only screen and (max-width: 764px) {
-    .row, #left, #right {
+    .row, .logo, #left, #right {
     	float: none;
         width: auto;
     }
-    .topnav a {
-    	margin: 0 1.6em .75em 0;
+    .topnav {
+    	display: block;
+    	text-align: center;
     }
 
 @media only screen and (max-width: 700px) {
-    h2, img {
+    h2 {
     	float: none;
         width: auto;
     }
