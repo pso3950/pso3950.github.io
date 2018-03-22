@@ -37,11 +37,12 @@ body {
 
 .logo {
 	float: left;
-	width: 50%;
+	width: 45%;
 }
 
 .column {
 	float: right;
+	width: 45%;
 	background-color: #A9A9A9;
 	padding: 15px;
 }
