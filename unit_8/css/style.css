@@ -35,13 +35,8 @@ body {
 	color: #A9A9A9;
 }
 
-.logo {
-	float: left;
-	width: 45%;
-}
-
 .column {
-	float: right;
+	float: left;
 	width: 45%;
 	background-color: #A9A9A9;
 	padding: 15px;
