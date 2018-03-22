@@ -42,6 +42,10 @@ body {
 	padding 15px;
 }
 
+.center {
+	opacity: 0.5;
+}
+
 .row:after {
 	content: "";
 	display: table;
