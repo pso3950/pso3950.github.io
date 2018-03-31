@@ -14,7 +14,6 @@ body {
 	text-align: left;
 }
 	
-
 .topnav {
     overflow: hidden;
     background-color: #A9A9A9;
@@ -89,7 +88,7 @@ p {
 
 #two_column {
 	background-color: #808080;
-	border: 1px black solid;
+	border: 2px black solid;
 	padding: 1%;
 }
 
