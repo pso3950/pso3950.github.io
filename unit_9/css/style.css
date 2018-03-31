@@ -36,8 +36,9 @@ body {
 
 .column {
 	background-color: #A9A9A9;
-	float: right;
+	float: left;
 	width: 50%;
+	padding: 1%;
 }
 
 .center {
