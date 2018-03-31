@@ -133,7 +133,7 @@ footer {
     	float: none;
         width: auto;
     }
-    .column {
+    .column, .center {
     	float: none;
     	width: auto;
     }
