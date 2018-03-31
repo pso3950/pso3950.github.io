@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css?family=Bellefair|Roboto+Condensed');
+body {
+	font-size: 16px;
+	line-height: 1em;
+	margin: 2em;
+	background: #A9A9A9;
+	color: #000;
+}
+
+.header {
+	border: 2px solid black;
+	display: inline-block;
+	background-color: #A9A9A9;
+	text-align: left;
+}
+
+.row {
+	background:url(http://wanderlord.com/wp-content/uploads/2017/04/Amazing-Flying-Fish.jpg);
+	background-repeat: repeat;
+	opacity: .04;
+}	
+
+.topnav {
+    overflow: hidden;
+    background-color: #A9A9A9;
+}
+
+.topnav a {
+    float: right;
+    display: block;
+    background-color: #A9A9A9;
+    color: #000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+	background-color: #000;
+	color: #A9A9A9;
+}
+
+.column {
+	background-color: #A9A9A9;
+	float: right;
+	width: 50%;
+}
+
+.center {
+	opacity: 0.5;
+}
+
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+h1 {
+	font-family: Bellefair, serif;
+	font-weight: normal;
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-align: left;
+}
+
+h2 {
+	font-family: Bellefair, serif;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-decoration: underline;
+	display: inline;
+}
+
+#slogan { 
+	font-family: Bellefair, serif;
+	font-size: 1.5em;
+	font-style: italic;
+	text-align: left;
+}
+
+p.beer {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+ul {
+	font-family: 'Roboto Condensed', sans-serif;
+	background-color: #A9A9A9;
+}
+
+p {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+#two_column {
+	background-color: #808080;
+	border: 1px black solid;
+	padding: 1%;
+}
+
+#left {
+	background-color: #A9A9A9;
+	border: 1px black solid;
+	padding: 1%;
+	float: left;
+	width: 40%;
+}
+
+#right {
+	background-color: #A9A9A9;
+	border: 1px black solid;
+	padding: 1%;
+	float: right;
+	width: 50%;
+}
+
+footer {
+	background-color: #A9A9A9;
+	padding: 10px;
+	text-align: center;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+@media only screen and (max-width: 764px) {
+    #left, #right {
+    	float: none;
+        width: auto;
+    }
+    .column {
+    	float: none;
+    	width: auto;
+    }
+    .topnav {
+    	float: left;
+    	display: inline;
+    	text-align: center;
+    }
+
+@media only screen and (max-width: 700px) {
+    h2 {
+    	float: none;
+        width: auto;
+    }
+}
