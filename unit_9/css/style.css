@@ -13,12 +13,7 @@ body {
 	background-color: #A9A9A9;
 	text-align: left;
 }
-
-#background {
-	background:url(http://wanderlord.com/wp-content/uploads/2017/04/Amazing-Flying-Fish.jpg);
-	background-repeat: repeat;
-	opacity: .4;
-}	
+	
 
 .topnav {
     overflow: hidden;
@@ -48,10 +43,6 @@ body {
 
 .center {
 	opacity: 0.5;
-}
-
-.row {
-	text-align: left;
 }
 
 .row:after {
@@ -138,7 +129,7 @@ footer {
     	float: none;
         width: auto;
     }
-    .column, .center {
+    .column {
     	float: none;
     	width: auto;
     }
