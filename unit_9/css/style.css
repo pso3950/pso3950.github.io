@@ -43,6 +43,7 @@ body {
 
 .center {
 	opacity: 0.5;
+	float: right;
 }
 
 .row:after {
