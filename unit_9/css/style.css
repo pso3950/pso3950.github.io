@@ -34,9 +34,16 @@ body {
 	color: #A9A9A9;
 }
 
-.column {
+.column1 {
 	background-color: #A9A9A9;
 	float: right;
+	width: 50%;
+	padding: 1%;
+}
+
+.column2 {
+	background-color: #A9A9A9;
+	float: left;
 	width: 50%;
 	padding: 1%;
 }
